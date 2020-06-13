@@ -1,4 +1,4 @@
-# Project Based Learning (Python)
+# Projects Collection
 ### Web Scraping:
 
 * [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
