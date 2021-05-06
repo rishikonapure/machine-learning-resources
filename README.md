@@ -1,6 +1,7 @@
 # Projects Collection and Resources
 ### Web Scraping:
 
+* [Web Scraping and Parsing HTML in Python with Beautiful Soup](https://www.twilio.com/blog/web-scraping-and-parsing-html-in-python-with-beautiful-soup)
 * [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 * [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
 * [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
