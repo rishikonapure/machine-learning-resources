@@ -9,6 +9,7 @@
 
 ### Web Applications:
 
+*[beginer-friendly Django tutorial](https://girlthatlovestocode.com/series/django)
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * Create a Blog Web App In Django
   * [Part I : Introduction](https://tutorial.djangogirls.org/en/)
