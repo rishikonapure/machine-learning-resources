@@ -82,7 +82,7 @@ Here is a collection of the best blogs, youtube, tweets  and github repos in the
 * [Use Transfer Learning for custom image classification](https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557)
 
 
-# Twitter
+# Twitter threads by Prashant
 
 ### Machine Learning and Deep Learning
 
